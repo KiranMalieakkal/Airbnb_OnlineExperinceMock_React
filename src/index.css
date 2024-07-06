@@ -42,10 +42,12 @@ section {
 
 .hero--header {
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .hero--text {
   margin-top: 0;
+  text-align: center;
 }
 
 .cards-list {
@@ -53,6 +55,7 @@ section {
   flex-wrap: nowrap;
   gap: 20px;
   overflow-x: auto;
+  justify-content: center;
 }
 
 .card {
